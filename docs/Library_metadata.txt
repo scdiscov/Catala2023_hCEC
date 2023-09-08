@@ -1,0 +1,14 @@
+Library	Sex	Donor	Timepoint	Library_paper	Timepoint2	Medium
+g011_0	Male	D2	P0D14	G1	P0	Confluency
+g011_1	Female	D3	P0D5	G1	D5	Proliferation
+g012_0	Female	D3	P0D14	G2	P0	Confluency
+g012_1	Male	D2	P0D5	G2	D5	Proliferation
+g013_0	Male	D1	P0D2	G3	D2	Proliferation
+g013_1	Female	D3	P1D30	G3	P1	Confluency
+g014_0	Female	D3	P2D46	G4	P2	Confluency
+g014_1	Male	D2	P0D2	G4	D2	Proliferation
+g016	Male	D1	P0D14	G5	P0	Confluency
+g017	Male	D1	P1D30	G6	P1	Confluency
+g018	Male	D1	P2D46	G7	P2	Confluency
+g019	Male	D2	P1D30	G8	P1	Confluency
+g020	Male	D2	P2D46	G9	P2	Confluency
